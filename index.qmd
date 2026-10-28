@@ -3,17 +3,21 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/me.JPG
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+My goal is to learn more about R and GitHub
 
 ## Education
 
+I am a biochemistry, molecular, and cellular biology student at the University of New Hampshire.
+
 ## Experience
 
+Just BIOL706 so far
 :::
 
 Thanks for checking out my web site!
