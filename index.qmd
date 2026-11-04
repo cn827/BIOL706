@@ -9,7 +9,7 @@ about:
 ::: {#me}
 ## Goals
 
-My goal is to learn more about R and GitHub + other coding stuffs
+My goal is to learn more about R and GitHub + other coding stuff
 
 ## Education
 
