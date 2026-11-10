@@ -3,13 +3,14 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/me.JPG  
+  image: img/me.JPG 
 ---
 
 ::: {#me}
 ## Goals
 
 My goal is to learn more about R and GitHub + other coding stuff
+And to finally figure out why github hates me
 
 ## Education
 
